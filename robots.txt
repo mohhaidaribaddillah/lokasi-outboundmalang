@@ -1,0 +1,14 @@
+# robots.txt for Gemilang Katun Outbound
+# https://lokasi-outboundmalang.netlify.app/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://lokasi-outboundmalang.netlify.app/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow sensitive directories
+Disallow: /img/

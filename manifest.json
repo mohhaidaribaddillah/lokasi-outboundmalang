@@ -1,0 +1,21 @@
+{
+  "name": "Gemilang Katun Outbound",
+  "short_name": "Gemilang Katun",
+  "description": "Lokasi Outbound Sejuk di Batu Malang - Paket Team Building, Gathering, dan Outing Profesional",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a6b3c",
+  "icons": [
+    {
+      "src": "img/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
